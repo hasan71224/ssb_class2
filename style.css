@@ -1,0 +1,37 @@
+body{
+	margin: 0px;
+	background: #f3efef;
+}
+div{
+	width: 1000px;
+	margin: auto;
+	background: white;
+	padding: 50px;
+}
+.sp1{
+	color: #008054;
+	text-transform: uppercase;
+	text-shadow: 4px 4px 4px #af8383;
+}
+.sp2{
+	color: #ec008c;
+    text-transform: uppercase;
+    text-shadow: 4px 4px 4px #af8383;
+}
+p{
+	font-size: 20px;
+	line-height: 1.7;
+}
+.link{
+	color: #efefef;
+	font-size: 18px;
+	text-decoration: none;
+	background: blue;
+	padding: 10px;
+	display: inline-block;
+	margin-bottom: 15px;
+	box-shadow: 5px 5px 10px #121217;
+}
+img{
+	max-width: 100%;
+}
